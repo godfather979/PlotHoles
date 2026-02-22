@@ -1,16 +1,14 @@
-# <Module Name>
+# Empty Module
 
 ## Purpose
-This module serves as an empty module with no defined responsibilities based on the provided architecture graph.
+This module is an empty container with no responsibilities defined.
 
 ## Internal Structure
-There are no subfolders in this module.
+There are no subfolders defined in this module.
 
 ## Files & Components
-There are no files or components in this module.
 
-## Exposed Interfaces
-There are no exposed interfaces defined in this module.
+No files or components are defined in this module.
 
 ## Dependencies
 There are no internal or external dependencies defined in this module.
