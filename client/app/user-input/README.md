@@ -1,13 +1,16 @@
-# Module Name
+# <Module Name>
 
 ## Purpose
-This module has no defined responsibility as there is no information present in the architecture graph.
+This module is currently empty and does not have any defined responsibilities.
 
 ## Internal Structure
-This module has no internal structure as there are no directories provided in the architecture graph.
+This module does not contain any subfolders.
 
 ## Files & Components
-There are no files or components in this module.
+None
+
+## Exposed Interfaces
+None
 
 ## Dependencies
-There are no dependencies in this module.
+None
