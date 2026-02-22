@@ -1,16 +1,13 @@
 # <Module Name>
 
 ## Purpose
-This module is currently empty and does not have any defined responsibilities.
+This module contains an empty architecture.
 
 ## Internal Structure
-The module is currently empty and does not have any subfolders.
+No subfolders are defined.
 
 ## Files & Components
-- No files or components are currently defined in the module.
-
-## Exposed Interfaces
-No exposed interfaces are currently defined.
+No files are defined.
 
 ## Dependencies
-No dependencies are currently defined.
+No dependencies are defined.
